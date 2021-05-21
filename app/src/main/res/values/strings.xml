@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Contacts Auth</string>
+
+    <string name="family_category_text">Family</string>
+    <string name="friends_category_text">Friends</string>
+    <string name="school_category_text">School</string>
+    <string name="work_category_text">Work</string>
+    <string name="contact_alert_title">Add new Contact</string>
+
+</resources>
